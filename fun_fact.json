@@ -1,45 +1,6 @@
 {
   "schemaVersion": 1,
-  "label": "Fun Fact",
-  "message": "$[emoji] $[text]",
-  "color": "blue",
-  "cacheSeconds": 3600,
-  "data": [
-    {
-      "emoji": "💻",
-      "text": "The first computer mouse was made of wood and was invented by Douglas Engelbart in 1964."
-    },
-    {
-      "emoji": "🌐",
-      "text": "The first website was created by Tim Berners-Lee in 1991 and is still online at http://info.cern.ch."
-    },
-    {
-      "emoji": "📱",
-      "text": "IBM Simon, released in 1994, is considered to be the first smartphone."
-    },
-    {
-      "emoji": "🚀",
-      "text": "The Apollo 11 guidance computer, which helped land humans on the moon, had a processing power similar to a modern calculator."
-    },
-    {
-      "emoji": "💾",
-      "text": "The first 1GB hard drive, released in 1980, weighed 550 pounds and cost $40,000."
-    },
-    {
-      "emoji": "🎮",
-      "text": "Nolan Bushnell and Ted Dabney founded Atari in 1972, which pioneered the video game industry with their game Pong."
-    },
-    {
-      "emoji": "🖥️",
-      "text": "ENIAC, the first electronic general-purpose computer, was completed in 1945 and weighed 30 tons."
-    },
-    {
-      "emoji": "🕸️",
-      "text": "The World Wide Web and the internet are not the same thing. The internet is a global network of computers, while the web is a collection of documents and resources connected by hyperlinks."
-    },
-    {
-      "emoji": "📧",
-      "text": "Ray Tomlinson sent the first email in 1971, and he also introduced the use of the @ symbol to separate the user and the host in email addresses."
-    }
-  ]
+  "label": "hello",
+  "message": "sweet world",
+  "color": "orange"
 }
